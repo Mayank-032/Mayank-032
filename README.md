@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mayank-032
 - 👀 I’m interested in learning new technologies and creating exciting projects.
-- 🌱 I’m currently learning NodeJS, ExpressJS, MongoDB
-- 💞️ I’m looking to collaborate on projects related to JavaScript, NodeJS, ExpressJS, MongoDB
+- 🌱 I’m currently learning Golang, MySql, Clean Architecture(SOLID Principles)
+- 💞️ I’m looking to collaborate on projects related Golang, Javascript, NodeJS
 - 📫 How to reach me mayankmohan74@gmail.com
 
 <!---
